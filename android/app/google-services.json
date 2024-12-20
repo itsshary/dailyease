@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662070410877",
+    "project_id": "dailyease-f8296",
+    "storage_bucket": "dailyease-f8296.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662070410877:android:6f7a7989b301350c8efb14",
+        "android_client_info": {
+          "package_name": "com.ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmY3-iyAPYguMIIaHe_YfMjUuoadEz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662070410877:android:8669532df01988eb8efb14",
+        "android_client_info": {
+          "package_name": "com.example.dailyease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmY3-iyAPYguMIIaHe_YfMjUuoadEz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
